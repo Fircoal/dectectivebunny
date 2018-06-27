@@ -1,0 +1,7 @@
+fluffybunny\dectectivebunny\dao\BunnyDao.class
+fluffybunny\dectectivebunny\entity\AnimeRequest.class
+fluffybunny\dectectivebunny\entity\Anime.class
+fluffybunny\dectectivebunny\App.class
+fluffybunny\dectectivebunny\DectectiveRunner.class
+fluffybunny\dectectivebunny\UtilityBunny.class
+fluffybunny\dectectivebunny\config\HibernateConf.class
